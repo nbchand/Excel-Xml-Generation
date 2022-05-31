@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collegeListPojo>
+    <collegePojoList>
+        <id>1</id>
+        <location>Balkumari, Lalitpur</location>
+        <name>NCIT</name>
+    </collegePojoList>
+    <collegePojoList>
+        <id>2</id>
+        <location>Dhangadhi, Kailali</location>
+        <name>NAST</name>
+    </collegePojoList>
+    <collegePojoList>
+        <id>3</id>
+        <location>Kalimati, Kathmandu</location>
+        <name>KEC</name>
+    </collegePojoList>
+</collegeListPojo>
